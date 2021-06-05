@@ -1,4 +1,5 @@
 # esx_pivovar
+Tato joba byla udělána matuseksamuel => je to Pivovar joba
 Pokud budete chtít, tak si můžete změnit lokaci, Blip, podle toho, jak chcete
 
 Originál: https://github.com/xSenSi/esx_vigneronjob
