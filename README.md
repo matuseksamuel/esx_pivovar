@@ -17,3 +17,8 @@ Instalace:
 Support:
 Pokud budete potřebovat pomoct, neváhejte se na mě obrátit
 discord: samuel64#5943
+
+=>1<=Pořebujete: es_extended => https://github.com/esx-framework/es_extended                                                                                                       
+=>2<=Pořebujete: esx_society => https://github.com/FXServer-ESX/fxserver-esx_society                                                                                               
+=>3<=Pořebujete: esx_billing => https://github.com/FXServer-ESX/fxserver-esx_billing                                                                                               
+=>4<=Pořebujete: esx_service => https://github.com/FXServer-ESX/fxserver-esx_service                                                                                               
